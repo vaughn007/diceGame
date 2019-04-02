@@ -1,0 +1,2 @@
+# diceGame
+play dice game
